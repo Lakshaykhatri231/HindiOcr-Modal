@@ -9,15 +9,15 @@ Dependencies:
          bashpip install torch torchvision
          pip install pillow numpy
          pip install einops
-```
 
-**Requirements:**
-- Python 3.8+
-- CUDA-enabled GPU (recommended) or CPU
-- 8GB+ RAM
 
-## Dataset Structure
-```
+Requirements:
+         - Python 3.8+
+         - CUDA-enabled GPU (recommended) or CPU
+         - 8GB+ RAM
+
+ Dataset Structure
+
          HindiSeg/
         ├── train.txt          # Training image paths + labels
         ├── val.txt            # Validation image paths + labels
@@ -26,6 +26,7 @@ Dependencies:
                 |-test
                 |-train    # Image files
                 |-val
+
 Models
 1. CNN-Transformer Baseline (modal3.py)
          
