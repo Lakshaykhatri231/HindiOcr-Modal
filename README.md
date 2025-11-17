@@ -12,6 +12,7 @@ Dependencies:
 
 
 Requirements:
+
          - Python 3.8+
          - CUDA-enabled GPU (recommended) or CPU
          - 8GB+ RAM
@@ -94,6 +95,7 @@ Training:
          Results
 
 Inference
+
          Best Validation Accuracy: 97.57%
          Character Error Rate (CER): 3.21%
          Supports: Vowels, consonants, matras, conjuncts (क्ष, त्र, ज्ञ)
