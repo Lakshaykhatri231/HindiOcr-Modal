@@ -42,7 +42,7 @@ Models
          Improvement: Better spatial feature extraction, 5-10% accuracy gain
 
 
-4. Swin-BiLSTM-mBART (modal1.py) ⭐ Best Model
+4. Swin-BiLSTM-mBART (modal1.py) 
 
          Architecture: Swin Transformer + BiLSTM + mBART decoder
          Features:
